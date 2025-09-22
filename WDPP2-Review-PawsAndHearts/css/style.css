@@ -1,0 +1,52 @@
+a {
+   -webkit-text-fill-color: gray;
+   font-weight: bold;
+}
+
+body .btn-success {
+  background-color: #8f00ff;
+  border-color: #8f00ff;
+  
+}
+
+body .btn-secondary {
+  background-color: white;
+  border-color: white;
+  color: #8f00ff;
+}
+
+body .btn-primary {
+  background-color: #8f00ff;
+  border-color: white;
+}
+
+.s {
+    font-size: 3rem;
+    -webkit-text-fill-color: white;
+}
+
+.e {
+   -webkit-text-fill-color: white;
+}
+
+
+.navigation {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.navigation a {
+    text-decoration: none;
+}
+
+.splashscreen {
+    padding: 80px 40px;
+    background-color: #8f00ff;
+    justify-content: center;
+    align-content: left;
+    text-align: center;
+}
+
+.center {
+  text-align: center;
+}
